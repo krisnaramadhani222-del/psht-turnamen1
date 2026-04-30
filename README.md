@@ -1,0 +1,8 @@
+const firebaseConfig = {
+  apiKey: "xxxxx",
+  authDomain: "xxxxx",
+  projectId: "xxxxx",
+  storageBucket: "xxxxx",
+  messagingSenderId: "xxxxx",
+  appId: "xxxxx"
+};
